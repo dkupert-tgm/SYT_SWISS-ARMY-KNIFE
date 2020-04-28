@@ -47,9 +47,9 @@ public class Test {
 
  Gradle besitzt die Möglichkeit die Test auszuführen und diese in einer `.html`-Datei zusammenfassen.
 
-![image-20200428061855421](JUNIT with Gradle/image-20200428061855421.png)
+![](JUNIT with Gradle/image-20200428061855421.png)
 
-![image-20200428061912921](JUNIT with Gradle/image-20200428061912921.png)
+![](JUNIT with Gradle/image-20200428061912921.png)
 
 [1] : "The Java Plugin - Gradle User Manual" [online](https://docs.gradle.org/current/userguide/java_plugin.html) | zuletzt besucht 28.04.2020
 
