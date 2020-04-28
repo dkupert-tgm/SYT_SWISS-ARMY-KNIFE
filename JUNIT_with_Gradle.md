@@ -2,7 +2,7 @@
 
 ## Test-Directory anlegen 
 
-Um mit Gradel Testen zu können ist es wichtig die Test in ein bestimmtes Verzeichnis zu geben. Gradle benutzt dazu das als Standard Verzeichnis: [1]
+Um mit Gradle Testen zu können ist es wichtig die Test in ein bestimmtes Verzeichnis zu geben. Gradle benutzt dazu das als Standard Verzeichnis: [1]
 
 `main --> test --> java --> TestClass.java`
 

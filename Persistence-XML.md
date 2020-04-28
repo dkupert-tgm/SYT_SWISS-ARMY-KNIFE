@@ -65,7 +65,7 @@ Um um der PersistenceUnit zu verdeutlichen, dass wir mit Hibernate eine Klasse g
 <class>model.Zug</class>
 ```
 
-## Auchtung (Fehlerquellen)
+## Achtung (Fehlerquellen)
 
 * IntelliJ besitzt einen `fehler` der die angegebene XML nicht erkennt es wird angezeigt, dass die Datei nicht resolved werden kann. Dies ist nur ein Anzeigefehler, das Programm funktioniert ohne Probleme. [2]
 

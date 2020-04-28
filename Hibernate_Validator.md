@@ -83,7 +83,7 @@ public class IsSameValidator implements ConstraintValidator<IsSame, Object> {
 
 Das Attribut des Constraint muss constant sein. Einen Weg drumherum ist es den Variablennamen des Attributes anzugeben und mit BeanUtils weiter zu arbeiten. [5]
 
-![image-20200428054224065](Hibernate Validator/image-20200428054224065.png)
+![image-20200428054224065](Hibernate_Validator/image-20200428054224065.png)
 
 ```java
 final Object startObj = BeanUtils.getProperty(value.getName(), this.first).toString();

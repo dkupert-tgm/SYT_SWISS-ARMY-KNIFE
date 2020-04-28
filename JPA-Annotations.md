@@ -4,7 +4,7 @@
 
 ### @Entity
 
-Damit eine Klasse als Entity erkannt werden kann braucht diese vor der Klassen Definition die Annotation `@Entity` danach werden die einzelnen Attribut automatisch als Spalte erkannt, man kann mit `@Column` arbeiten damit man genauer Werte festsetzen kann. [1]
+Damit eine Klasse als Entity erkannt werden kann braucht diese vor der Klassen Definition die Annotation `@Entity`.
 
 ```JAVa
 //Mit dieser Annotation wird das Objekt als Entity gekennzeichnet
@@ -28,7 +28,7 @@ public class Sky implements Serializable {
 
 ### @Column
 
-Wie vorher bereits erwähnt, wenn man ein Attribut genauer bestimmen möchte muss man ``@Column()` benutzen. Das Sind alle möglichen Attribute, welche `@Column` besitzen kann. [1]
+Wie vorher bereits erwähnt, wenn man ein Attribut genauer bestimmen möchte muss man ``@Column()` benutzen. Das Sind alle möglichen Attribute, welche `@Column` besitzen Die einzelnen Attribut automatisch als Spalte erkannt, man kann mit `@Column` arbeiten damit man genauer Werte festsetzen kann. [1]
 
 ```java
 @Column(
