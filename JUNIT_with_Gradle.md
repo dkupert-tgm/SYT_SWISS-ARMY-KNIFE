@@ -4,9 +4,9 @@
 
 Um mit Gradel Testen zu können ist es wichtig die Test in ein bestimmtes Verzeichnis zu geben. Gradle benutzt dazu das als Standard Verzeichnis: [1]
 
-``main --> test --> java --> TestClass.java`
+`main --> test --> java --> TestClass.java`
 
-![image-20200428061142054](JUNIT with Gradle/image-20200428061142054.png)
+![image-20200428061142054](JUNIT_with_Gradle/image-20200428061142054.png)
 
 ## Dependencies
 
