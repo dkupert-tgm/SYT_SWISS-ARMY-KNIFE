@@ -50,6 +50,8 @@ Beschreibung der einzelnen Tags.
 
 ### weitere Klassen hinzufügen
 
+Um um der PersistenceUnit zu verdeutlichen, dass wir mit Hibernate eine Klasse gemappt haben muss man in der persistence.xml den Pfad der vorher erstellen `xml` angeben.
+
 ```xml
 <!-- wenn die Entiät in einer separaten XML-Datei beschrieben wurde -->
 <mapping-file>/META-INF/Reservierungen.xml</mapping-file>
@@ -63,7 +65,14 @@ Beschreibung der einzelnen Tags.
 <class>model.Zug</class>
 ```
 
+## Auchtung (Fehlerquellen)
+
+* IntelliJ besitzt einen `fehler` der die angegebene XML nicht erkennt es wird angezeigt, dass die Datei nicht resolved werden kann. Dies ist nur ein Anzeigefehler, das Programm funktioniert ohne Probleme. [2]
+
+  ![image-20200428034733260](Persistence-XML/image-20200428034733260.png)
+
 ## Quellen
 
 [1] "JPA Persistence Unit" [online](https://www.objectdb.com/java/jpa/entity/persistence-unit#persistence.xml) | zuletzt besucht 28.04.2020
 
+[2] : "Cannot resolve symbol .hbm.xml in mapping-file element of persistence.xml" [online](https://youtrack.jetbrains.com/issue/IDEA-86713) | zuletzt besucht 01.04.2020
