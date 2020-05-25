@@ -65,6 +65,6 @@ Man kann natürlich auch das Design des Graphen ändern und auch die Achsen form
 
 ## Quellen
 
-[1] https://grafana.com/docs/grafana/latest/getting-started/what-is-grafana/
+[1] "What is Grafana" [online](https://grafana.com/docs/grafana/latest/getting-started/what-is-grafana/) |zuletzt besucht 26.05.2020
 
-[2] https://www.definit.co.uk/2018/07/monitoring-temperature-and-humidity-with-a-raspberry-pi-3-dht22-sensor-influxdb-and-grafana/
+[2] "MONITORING TEMPERATURE AND HUMIDITY WITH A RASPBERRY PI 3, DHT22 SENSOR, INFLUXDB AND GRAFANA" [online](https://www.definit.co.uk/2018/07/monitoring-temperature-and-humidity-with-a-raspberry-pi-3-dht22-sensor-influxdb-and-grafana/) |zuletzt besucht 26.05.2020

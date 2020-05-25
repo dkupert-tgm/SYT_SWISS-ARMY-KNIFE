@@ -71,8 +71,8 @@ Hier interessiert uns nur der state dieser kann folgende Zustände annehmen:
 
 ## Quellen
 
-[1] https://www.herox.com/IARPAGFChallenge/forum/thread/2497?page=1#post-8920
+[1] "Making a Python 3 webhook listener" [online](https://www.herox.com/IARPAGFChallenge/forum/thread/2497?page=1#post-8920) |zuletzt besucht 26.05.2020
 
-[2] https://sendgrid.com/docs/for-developers/tracking-events/python-code-example/
+[2] "Webhook Python code example" [online](https://sendgrid.com/docs/for-developers/tracking-events/python-code-example/) |zuletzt besucht 26.05.2020
 
-[3] https://developers.google.com/hangouts/chat/quickstart/incoming-bot-python
+[3] "Python Webhook Bot" [online](https://developers.google.com/hangouts/chat/quickstart/incoming-bot-python) |zuletzt besucht 26.05.2020

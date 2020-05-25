@@ -72,10 +72,10 @@ SELECT mean(CO2ppm) FROM MQ135 WHERE time >= now() - 30m GROUP BY time(10s) fill
 
 ## Quellen
 
-[1] https://docs.influxdata.com/influxdb/v1.8/
+[1] "InfluxDB Documentation" [online](https://docs.influxdata.com/influxdb/v1.8/) | zuletzt besucht 25.05.2020
 
-[2] https://www.influxdata.com/products/influxdb-overview/
+[2] "InfluxDB Overview" [online](https://www.influxdata.com/products/influxdb-overview/) | zuletzt besucht 25.05.2020
 
-[3] https://v2.docs.influxdata.com/v2.0/reference/cli/influx/
+[3]  "CLI InfluxDB" [online](https://v2.docs.influxdata.com/v2.0/reference/cli/influx/) | zuletzt besucht 25.05.2020
 
-[4] https://docs.influxdata.com/influxdb/v1.8/tools/shell/
+[4] "Influx Shell" [online](https://docs.influxdata.com/influxdb/v1.8/tools/shell/) | zuletzt besucht 25.05.2020

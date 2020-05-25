@@ -61,4 +61,5 @@ def MQGetPercentage(self):
 
 ## Quellen
 
-[1] http://davidegironi.blogspot.com/2014/01/cheap-co2-meter-using-mq135-sensor-with.html
+[1] "Cheap C02 Meter using MQ135" [online](http://davidegironi.blogspot.com/2014/01/cheap-co2-meter-using-mq135-sensor-with.html) |zuletzt besucht 26.05.2020
+

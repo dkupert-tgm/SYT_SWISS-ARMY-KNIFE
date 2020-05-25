@@ -39,4 +39,4 @@ def read(self, channel = 0):
 
 ### Quelle
 
-https://github.com/tutRPi/Raspberry-Pi-Gas-Sensor-MQ/blob/master/MCP3008.py
+[1] "Github MCP3008 Python" [online](https://github.com/tutRPi/Raspberry-Pi-Gas-Sensor-MQ/blob/master/MCP3008.py) |zuletzt besucht 26.05.2020

@@ -30,8 +30,8 @@ Bei dem Namen des User dürfen keine Sonderzeichen verwendet werden. [2]
 
 ## Quellen
 
-[1] https://www.definit.co.uk/2018/07/monitoring-temperature-and-humidity-with-a-raspberry-pi-3-dht22-sensor-influxdb-and-grafana/
+[1] "MONITORING TEMPERATURE AND HUMIDITY WITH A RASPBERRY PI 3, DHT22 SENSOR, INFLUXDB AND GRAFANA "[online](https://www.definit.co.uk/2018/07/monitoring-temperature-and-humidity-with-a-raspberry-pi-3-dht22-sensr-influxdb-and-grafana/) |zuletzt besucht 26.05.2020
 
-[2] https://stackoverflow.com/questions/31286130/name-series-with-dash
+[2] "Name series with dash" [online](https://stackoverflow.com/questions/31286130/name-series-with-dash) |zuletzt besucht 26.05.2020
 
  

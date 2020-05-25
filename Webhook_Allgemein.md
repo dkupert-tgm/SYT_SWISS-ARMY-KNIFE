@@ -14,6 +14,6 @@ Der Webhook sendet eine HTTP-Anfrage an eine App (normalerweise ein POST), und d
 
 ## Quellen
 
-[1] https://sendgrid.com/blog/whats-webhook/
+[1] "What is a webhook" [online](https://sendgrid.com/blog/whats-webhook/) |zuletzt besucht 26.05.2020
 
-[2] https://developers.google.com/hangouts/chat/images/arch-pat-notifier.png?hl=th
+[2] "Webhook Image" [online-image](https://developers.google.com/hangouts/chat/images/arch-pat-notifier.png?hl=th) |zuletzt besucht 26.05.2020

@@ -10,4 +10,5 @@ Danach drückt man auf den Punkt "Create Webhook". Hier kann man den Namen und B
 
 ## Quellen
 
-[1] https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
+[1] "Discord intro webhooks" [online](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks) |zuletzt besucht 26.05.2020
+

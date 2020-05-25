@@ -54,8 +54,8 @@ if __name__=='__main__':
 
 ## Quellen
 
-[1] https://flask.palletsprojects.com/en/1.1.x/tutorial/#tutorial
+[1] "Flask tutorial" [online](https://flask.palletsprojects.com/en/1.1.x/tutorial/#tutorial) |zuletzt besucht 26.05.2020
 
-[2] https://palletsprojects.com/p/flask/
+[2] "Flask setup" [online](https://palletsprojects.com/p/flask/) |zuletzt besucht 26.05.2020
 
-[3] https://teamtreehouse.com/community/can-someone-help-me-understand-flaskname-a-little-better
+[3] "Understandig FLask better" [online](https://teamtreehouse.com/community/can-someone-help-me-understand-flaskname-a-little-better) |zuletzt besucht 26.05.2020

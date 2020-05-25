@@ -62,6 +62,6 @@ Ein häufiger Fehler ist es eine andere Zeitzone als UTC zu verwenden. In meinem
 
 ## Quellen
 
-[1] https://www.definit.co.uk/2018/07/monitoring-temperature-and-humidity-with-a-raspberry-pi-3-dht22-sensor-influxdb-and-grafana/
+[1] "Influx and Grafana" [online](https://www.definit.co.uk/2018/07/monitoring-temperature-and-humidity-with-a-raspberry-pi-3-dht22-sensor-influxdb-and-grafana/) |zuletzt besucht 26.05.2020
 
-[2] https://www.influxdata.com/blog/tldr-influxdb-tech-tips-december-15-2016/
+[2] "TLDR tech tips InfluxDB" [online](https://www.influxdata.com/blog/tldr-influxdb-tech-tips-december-15-2016/) |zuletzt besucht 26.05.2020
