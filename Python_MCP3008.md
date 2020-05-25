@@ -1,6 +1,6 @@
 # Python MCP 3008
 
-
+[MCP 3008 Allgemein](https://github.com/dkupert-tgm/SYT_SWISS-ARMY-KNIFE/blob/master/MCP3008.md)
 
 ## Import
 
@@ -39,3 +39,4 @@ def read(self, channel = 0):
 
 ### Quelle
 
+https://github.com/tutRPi/Raspberry-Pi-Gas-Sensor-MQ/blob/master/MCP3008.py
